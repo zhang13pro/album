@@ -1,10 +1,10 @@
 {
   "name": "album",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "dev": "vite",
-    "build": "vue-tsc --noEmit && vite build",
+    "build": "vue-tsc --showConfig && vite build",
     "preview": "vite preview"
   },
   "dependencies": {
